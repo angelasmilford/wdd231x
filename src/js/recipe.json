@@ -1,0 +1,154 @@
+[
+    {
+        "recipe_name": "Chocolate Chip Cookies",
+        
+        "ingredients": {
+            "butter": {
+                "amounts": {
+                    "amount": 1,
+                    "unit": "cup",
+                    "notes": "Butter should be softened"
+                }
+            },
+            "brown_sugar": {
+                "amounts":{
+                    "amount": 1.5,
+                    "unit": "cup"
+                }
+            },
+            "white_sugar": {
+                "amounts": {
+                    "amount": 1,
+                    "unit": "cup" 
+                }
+            },
+            "eggs": {
+                "amounts": {
+                    "amount": 3,
+                    "unit": "each"
+                }
+            },
+            "vanilla": {
+                "amounts": {
+                    "amount": 2,
+                    "unit": "teaspoon"
+                }
+            },
+            "baking_soda": {
+                "amounts": {
+                    "amount": 0.5,
+                    "unit": "teaspoon"
+                }
+            },
+            "salt": {
+                "amounts": {
+                    "amount": 0.5,
+                    "unit": "teaspoon"
+                }
+            },
+            "flour": {
+                "amounts": {
+                    "amount": 5,
+                    "unit": "cups"
+                }
+            }, 
+            "semi_sweet_chocolate_chips": {
+                "amounts": {
+                    "amount": 2,
+                    "unit": "cups"
+                }
+            },
+            "shredded_coconut": {
+                "amounts": {
+                    "amount": "1-2",
+                    "unit": "cups"
+                }
+            }
+        },
+    
+        "steps": {
+            "step": [
+                "Cream the butter and sugar together, then beat in the eggs and vanilla",
+                "Mix in salt, soda, and flour",
+                "Add chocolate chips and coconut.",
+                "Bake 8-10 minutes at 350 F"
+            ]
+        }
+    },
+    {
+        "recipe_name": "Chocolate Chip Cookies",
+        
+        "ingredients": {
+            "butter": {
+                "amounts": {
+                    "amount": 1,
+                    "unit": "cup",
+                    "notes": "Butter should be softened"
+                }
+            },
+            "brown_sugar": {
+                "amounts":{
+                    "amount": 1.5,
+                    "unit": "cup"
+                }
+            },
+            "white_sugar": {
+                "amounts": {
+                    "amount": 1,
+                    "unit": "cup" 
+                }
+            },
+            "eggs": {
+                "amounts": {
+                    "amount": 3,
+                    "unit": "each"
+                }
+            },
+            "vanilla": {
+                "amounts": {
+                    "amount": 2,
+                    "unit": "teaspoon"
+                }
+            },
+            "baking_soda": {
+                "amounts": {
+                    "amount": 0.5,
+                    "unit": "teaspoon"
+                }
+            },
+            "salt": {
+                "amounts": {
+                    "amount": 0.5,
+                    "unit": "teaspoon"
+                }
+            },
+            "flour": {
+                "amounts": {
+                    "amount": 5,
+                    "unit": "cups"
+                }
+            }, 
+            "semi_sweet_chocolate_chips": {
+                "amounts": {
+                    "amount": 2,
+                    "unit": "cups"
+                }
+            },
+            "shredded_coconut": {
+                "amounts": {
+                    "amount": "1-2",
+                    "unit": "cups"
+                }
+            }
+        },
+    
+        "steps": {
+            "step": [
+                "Cream the butter and sugar together, then beat in the eggs and vanilla",
+                "Mix in salt, soda, and flour",
+                "Add chocolate chips and coconut.",
+                "Bake 8-10 minutes at 350 F"
+            ]
+        }
+    }
+]
