@@ -252,3 +252,7 @@ export async function getVisitorCenterData() {
   return data.data[0];
 }
 
+
+function getVisitorCenterData(parkCode){
+
+}

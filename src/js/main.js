@@ -27,3 +27,6 @@ async function init(){
 }
 
 init();
+
+import "../css/style.css"; // we can do this type of import because we are using Vite
+import "../css/conditions.css";
