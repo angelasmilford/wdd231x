@@ -64,15 +64,32 @@
           </a>
 
           <button id="global-nav-toggle">
-            <svg class="icon">
-              <use xlink:href="/images/sprite.symbol.svg#menu"></use>
-            </svg>
-          
-            <span class="visually-hidden">Open</span> Menu
+            id="global-nav-toggle"
+            class="global-nav__toggle"
+            aria-expanded="false"
+            aria-label="Open Menu"
+             >
+            <div class="global-nav__toggle--closed">
+                <svg class="icon">
+                <use
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="/images/sprite.symbol.svg#menu"
+                ></use>
+                </svg>
+                <span class="visually-hidden">Open</span> Menu
+            </div>
+            <div class="global-nav__toggle--open">
+                <svg class="icon">
+                <use
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="/images/sprite.symbol.svg#close"
+                ></use>
+                </svg>
+                Close
+            </div>
           </button>
         </div>
 
-      <!--Commenting this so that it matches the webpage in the Prove Activity
         <nav class="global-nav">
           <h2 class="global-nav__section-heading">Explore this Park</h2>
           
@@ -93,7 +110,6 @@
             </li>
           </ul>
         </nav>  
-      -->
       </section>
 
       <section id="park-header">
