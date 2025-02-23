@@ -27,25 +27,6 @@ async function init() {
 }
 
 function enableNavigation() {
-  // use a querySelector to get the menu buttons
-    
-  // when the main menu button is clicked:
-  menuButton.addEventListener("click", (ev) => {
-    let target = ev.target;
-    // toggle the show class on the global-nav
-
-    // check to see if target is the button or something inside the button
-    
-    // check to see if we just opened or closed the menu
-    
-      // if we opened it then set the aria-expanded attribute on the button to true
-      
-      // if we closed it then set the aria-expanded attribute on the button to false
-      
-  });
-}
-
-function enableNavigation() {
   const menuButton = document.querySelector("#global-nav-toggle");
   
   // when the main menu button is clicked:
@@ -71,3 +52,4 @@ function enableNavigation() {
 }
 
 init();
+enableNavigation();
