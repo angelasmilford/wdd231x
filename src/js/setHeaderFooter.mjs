@@ -23,3 +23,11 @@ export default function setHeaderFooter(data) {
     setHeaderInfo(data);
     setFooter(data);
 }
+
+import enableNavigation from "./navigation.mjs";
+
+export default function setHeaderFooter(parkData) {
+  setHeaderInfo(parkData);
+  setFooter(parkData);
+  enableNavigation();
+}
